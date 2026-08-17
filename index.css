@@ -24,6 +24,13 @@ button:hover {
 }
 
 /* This CSS file provides basic styling for the webpage, including body, heading, and button styles. */
+h2 {
+  color: #555;
+  margin-top: 20px;
+} 
+button:active {
+  background-color: #004085;
+}
 
 
 
